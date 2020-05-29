@@ -1,0 +1,1 @@
+MAX_BIT_VALUE = 255
